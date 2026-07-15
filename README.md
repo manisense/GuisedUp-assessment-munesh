@@ -181,6 +181,13 @@ See [`docs/TSD.md`](docs/TSD.md) for:
 
 ---
 
+## 🎬 Demo Video
+
+A walkthrough video demonstrating the application and explaining the features is required for this assessment. 
+See the suggested recording script and guide in [`docs/VIDEO_SCRIPT.md`](docs/VIDEO_SCRIPT.md).
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
