@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Laravel and Expo have their own gitignores, but they only apply to their subdirs

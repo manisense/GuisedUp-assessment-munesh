@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+chromadb==0.5.3
+numpy==1.26.4
+httpx==0.27.0
+pydantic==2.8.0
+
+# Optional — real sentence-transformers embeddings
+# Uncomment if you have sufficient disk/memory (~100MB model download):
+# sentence-transformers==3.1.1
+# torch==2.4.0
